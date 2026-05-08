@@ -1,16 +1,6 @@
 🛠️Windows Cmd windows to kali linux terminal/linux terminal🛠️
 -------------------------------------------------------------
 Thanks for using 🚀
-[Options}
-[whoami]
-[which]
-[clear]
-[alias]
-[top]
-[env]
-[history]
-[grep]
-[echo]
 **⚠️WARNING THIS IS NOT ALL THE OPTIONS⚠️**
 ```text
  ██▓███ ▓██   ██▓▄▄▄█████▓ ██░ ██  ▒█████   ███▄    █    ▄▄▄█████▓▓█████  ██▀███   ███▄ ▄███▓ █    ██ ▒██   ██▒
@@ -25,3 +15,24 @@ Thanks for using 🚀
          ░ ░                                                                                                   
                                                                                                                                  
 ```
+```text
+╔════════════════════════════════════════╗
+║  Options                               ║
+║  1.whoami                              ║
+║  2.clear                               ║       
+║  3.history                             ║     
+║  4.grep                                ║     
+║  5.env                                 ║
+║  6.echo                                ║
+║  7.alias                               ║
+║  8.top                                 ║   
+║  9.tail                                ║
+║  10.rm                                 ║
+║  11.rmdir                              ║
+║  ==============================        ║
+║                                        ║
+║                                        ║
+╚════════════════════════════════════════╝
+                                                                                                                                 
+```
+**⚠️Warning not all options⚠️**
